@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1609689825 source:c:\users\mbkara\desktop\berker2\berker_sorting\sorting\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<time.h>
+	<ctime>
+
